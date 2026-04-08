@@ -1,0 +1,85 @@
+Project Aim and Objectives
+Aim
+The main objective in this project is to investigate the counting and locating of objects
+in images with lightweight vision-language models and natural language instruction. The
+steps are to adapt the CountGD data set and work on the efficiency of the models so
+that they can work anywhere including smaller devices and less powerful devices. I will
+also examine the performance between different wording of the instruction and assess
+how well the object is being located with disturbances introduced, such as visual blur or
+occlusion.
+Objectives
+• Research and review existing work in lightweight multimodal models especially
+widely studied models, such as MobileViT, Distilled CLIP, etc.
+• Develop a working object counting model, using a lightweight backbone and not
+the heavier base, such as ViT, etc.
+• After deploying the model using ONNX or TorchScript, evaluate the model’s per-
+formance in regards to speed and memory.
+• Evaluate how well the model’s capability of learning in images with noise through
+blur, brightness, etc...
+• Consider how much of the change in output was due to changing styles of natural
+language prompt.
+• Use explainable AI tools such as Grad-CAM++ to show what areas the model
+appears to be focused on.
+• Document findings with comparisons, charts and observations; and prepare a final
+report with a poster.
+1
+Research and Analysis Methodology
+The work itself will use the CountGD dataset, which contains images and short text
+instructions that asks to count or find objects. I will start with the dataset, including
+processing the images for the model, resizing, and processing the text to turn it into
+tokens for the model. The model will use both the image and the prompt as input, and
+will predict an object count and a heatmap, or visual grounding output, from the model’s
+predictions.
+I will use newer lighter versions of models such as MobileViT or Distilled CLIP, that
+are smaller and a lot slower than models such as ViT and CLIP. I will test for both speed
+and accuracy with both methods. Once it is up and running, I will establish a baseline
+and then see how well the model could do with various forms of post-production visual
+noise. I will try to also ask the model different ways of the same question, to see just
+how much wording matters.
+For evaluations, I will use standard measures like Mean Absolute Error (MAE) for
+counting accuracy, or Intersection-over-Union (IoU) for how closely the model output
+matches the relationship of the actual object locations. I will use various tools like Grad-
+CAM++ to visually produce which parts of the image the model is using to make object
+location predictions or to weigh the output label when it is a continuous number.
+Analysis Plan
+• Model Evaluation of Lightweight Models: The main analysis will focus on lightweight
+models (e.g., MobileViT and Distilled CLIP). The lightweight models will be trained
+and fine-tuned on the CountGD, and performance will be evaluated on both accu-
+racy and efficiency against the baselines (e.g., CLIP + ViT).
+• Counting and Grounding: Mean Absolute Error (MAE) will be used to assess per-
+formance of counting the objects, and Intersectionover-Union (IoU) will be used
+to evaluate performance of grounding the objects. These two performance mea-
+sures will be used to quantify how much task performance of the lightweight model
+degraded from the original model.
+• Real Time Performance: Performance of the baseline and lightweight models will
+be evaluated for exportability to TorchScript and ONNX. Inference speed (latency),
+throughput (FPS) and memory usage (RAM/VRAM) will be profiled on CPU/GPU
+in order ensure deployments are plausible on edge.
+• Robustness to Visual Noise and Occlusion: Using tools like ImageNet-C and other
+data sources, noise (e.g. blurring, brightness changes, occlusions) will be applied
+to the images that were used for testing. We will evaluate the change in MAE/Iou
+before and after noise was introduced to quantify to what extent lightweight model
+generalized to out of sample noise.
+• Instruction Prompt Sensitivities: the project will include a number of prompt vari-
+ants to measure the effect of how variations of the prompt, from general (e.g. ”How
+many objects?”) to specific (e.g. ”Count the red cars on the right.”) might affect
+model performance. This can help determine the models linguistic grounding and
+robustness to prompt variations.
+2
+• Explainability via Visual Attribution: Visual attribution, Grad-CAM++ will be
+used on the backbone of both the original model and lightweight models to generate
+heatmaps of the regions that contributed to the predictions, which can help for
+understanding and checking technical errors.
+Final Research Plan and Gantt Chart
+• Weeks 1-2: Review papers on MobileViT, Distilled CLIP, and CLIP-KD. Set up
+CountGD dataset and look into its structure and metrics.
+• Weeks 3-5: Build and train a version of the model using a lighter backbone. Test
+if the accuracy remains high with lower memory and compute cost.
+• Weeks 6-8: Convert the trained model to ONNX or TorchScript and test its speed
+on different hardware. Add visual noise to test how robust the model is to real-world
+challenges like blur or glare.
+• Weeks 9-10: Run experiments using different text prompts to see if model predic-
+tions change. Add Grad-CAM++ to explain what parts of the image the model is
+using.
+• Weeks 11-12:Finalise graphs and analysis, complete the dissertation, prepare the
+presentation, and create the final project poster

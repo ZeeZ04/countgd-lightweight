@@ -1,0 +1,13 @@
+MLE-STAR Optimized CountGD Model
+========================================
+Model size: 246.18 MB
+Parameters: 64,530,691
+Counts shape: torch.Size([2])
+Heatmaps shape: torch.Size([2, 14, 14])
+
+MLE-STAR optimizations applied:
+✓ MobileViT-XXS backbone (lightweight)
+✓ Channel attention mechanism
+✓ Cross-attention fusion
+✓ Enhanced counting head
+✓ Benchmark utilities

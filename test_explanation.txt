@@ -1,0 +1,53 @@
+python main.py --mode explain
+or
+python test_explanations.py 
+
+Testing explanation capability...
+==================================================
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+Fetching 1 files: 100%|████████████████████| 1/1 [00:00<00:00, 8405.42it/s]
+
+Testing: 'Count the red cars in the image'
+
+=== INFERENCE EXPLANATION ===
+Input prompt: Count the red cars in the image
+Predicted count: 0.02
+
+--- Instance 1 Analysis ---
+Prompt: Count the red cars in the image
+Regions detected: 0
+Explanation: No objects matching 'Count the red cars in the image' were identified with sufficient confidence.
+Technical details:
+  - Attention score: 1.000
+  - Average confidence: 0.000
+  - Max confidence: 0.000
+
+Testing: 'How many people are walking?'
+
+=== INFERENCE EXPLANATION ===
+Input prompt: How many people are walking?
+Predicted count: 0.00
+
+--- Instance 1 Analysis ---
+Prompt: How many people are walking?
+Regions detected: 1
+Explanation: Identified 1 potential people regions. Strong text-vision alignment (attention: 1.00) indicates high relevance between prompt and visual features. Moderate visual confidence (0.50) in object detection.
+Technical details:
+  - Attention score: 1.000
+  - Average confidence: 0.502
+  - Max confidence: 0.502
+
+Testing: 'Find all the dogs in the scene'
+
+=== INFERENCE EXPLANATION ===
+Input prompt: Find all the dogs in the scene
+Predicted count: 0.02
+
+--- Instance 1 Analysis ---
+Prompt: Find all the dogs in the scene
+Regions detected: 4
+Explanation: Identified 4 potential find regions. Strong text-vision alignment (attention: 1.00) indicates high relevance between prompt and visual features. Moderate visual confidence (0.51) in object detection.
+Technical details:
+  - Attention score: 1.000
+  - Average confidence: 0.510
+  - Max confidence: 0.520

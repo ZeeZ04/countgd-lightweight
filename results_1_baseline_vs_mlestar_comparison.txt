@@ -1,0 +1,48 @@
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+CountGD Model Comparison: Original vs MLE-STAR Optimized
+============================================================
+Loading models...
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 6668.21it/s]
+
+📊 Model Statistics:
+------------------------------
+Original Model:
+  Parameters: 157,235,235
+  Size: 599.85 MB
+
+MLE-STAR Optimized:
+  Parameters: 64,530,691
+  Size: 246.18 MB
+
+Improvement:
+  Parameter reduction: 59.0%
+  Size reduction: 59.0%
+
+⚡ Performance Benchmark:
+------------------------------
+Original Model:
+Average inference time: 128.20 ms
+FPS: 7.8
+
+MLE-STAR Optimized:
+Average inference time: 42.58 ms
+FPS: 23.5
+
+Speedup: 3.01x
+
+🚀 MLE-STAR Enhancements:
+------------------------------
+✓ Optimized MobileViT-XXS backbone
+✓ Channel attention mechanism
+✓ Cross-attention fusion layers
+✓ Enhanced counting head with auxiliary loss
+✓ Mobile deployment utilities (ONNX export)
+✓ Quantization-aware training support
+✓ Performance benchmarking tools
+
+💡 Recommendations:
+------------------------------
+1. Use optimized model for mobile deployment
+2. Export to ONNX for production inference
+3. Apply quantization for further size reduction
+4. Benchmark on target mobile devices

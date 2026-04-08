@@ -1,0 +1,262 @@
+[
+  {
+    "image": "val_0000.jpg",
+    "text": "How many items are visible?",
+    "count": 4,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0001.jpg",
+    "text": "How many items are visible?",
+    "count": 4,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0002.jpg",
+    "text": "How many items are visible?",
+    "count": 1,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0003.jpg",
+    "text": "How many items are visible?",
+    "count": 4,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0004.jpg",
+    "text": "How many items are visible?",
+    "count": 6,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0005.jpg",
+    "text": "How many items are visible?",
+    "count": 3,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0006.jpg",
+    "text": "How many items are visible?",
+    "count": 5,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0007.jpg",
+    "text": "How many items are visible?",
+    "count": 6,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0008.jpg",
+    "text": "How many items are visible?",
+    "count": 4,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0009.jpg",
+    "text": "How many items are visible?",
+    "count": 6,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0010.jpg",
+    "text": "How many items are visible?",
+    "count": 3,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0011.jpg",
+    "text": "How many items are visible?",
+    "count": 6,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0012.jpg",
+    "text": "How many items are visible?",
+    "count": 3,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0013.jpg",
+    "text": "How many items are visible?",
+    "count": 1,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0014.jpg",
+    "text": "How many items are visible?",
+    "count": 5,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0015.jpg",
+    "text": "How many items are visible?",
+    "count": 6,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0016.jpg",
+    "text": "How many items are visible?",
+    "count": 6,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0017.jpg",
+    "text": "How many items are visible?",
+    "count": 6,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0018.jpg",
+    "text": "How many items are visible?",
+    "count": 6,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  },
+  {
+    "image": "val_0019.jpg",
+    "text": "How many items are visible?",
+    "count": 3,
+    "boxes": [
+      [
+        30,
+        30,
+        80,
+        80
+      ]
+    ]
+  }
+]

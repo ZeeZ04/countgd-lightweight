@@ -1,0 +1,14 @@
+\begin{table}[htbp]
+\centering
+\caption{Model Efficiency Comparison}
+\label{tab:efficiency_results}
+\begin{tabular}{lccccc}
+\toprule
+Model & Trainable Params & Size (MB) & Latency (ms) & FPS $\uparrow$ & Device \\
+\midrule
+CountGD_Baseline & 157.2M & 599.8 & 154.2 & 6.5 & cpu \\
+MLE-STAR_Optimized & 64.5M & 246.2 & 46.1 & 21.7 & cpu \\
+ZMobileViT & 2.9M & 11.0 & 48.1 & 20.8 & cpu \\
+\bottomrule
+\end{tabular}
+\end{table}

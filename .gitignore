@@ -1,0 +1,75 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (use Git LFS for large models or exclude)
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pkl
+*.safetensors
+
+# Data directories
+data/images/
+data/train/
+data/val/
+data/test/
+
+# Results and logs
+*.log
+wandb/
+runs/
+outputs/
+checkpoints/
+
+# Experiment results (keep summary files, exclude raw data)
+msc_results/*.pt
+msc_statistical_results/*.pt
+rigorous_results/*.pt
+
+# Cache
+.cache/
+*.pyc

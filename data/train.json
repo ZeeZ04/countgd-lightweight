@@ -1,0 +1,1902 @@
+[
+  {
+    "image": "train_0000.jpg",
+    "text": "Count the objects in the image",
+    "count": 1,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0001.jpg",
+    "text": "Count the objects in the image",
+    "count": 4,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0002.jpg",
+    "text": "Count the objects in the image",
+    "count": 3,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0003.jpg",
+    "text": "Count the objects in the image",
+    "count": 8,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0004.jpg",
+    "text": "Count the objects in the image",
+    "count": 7,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0005.jpg",
+    "text": "Count the objects in the image",
+    "count": 1,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0006.jpg",
+    "text": "Count the objects in the image",
+    "count": 3,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0007.jpg",
+    "text": "Count the objects in the image",
+    "count": 7,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0008.jpg",
+    "text": "Count the objects in the image",
+    "count": 1,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0009.jpg",
+    "text": "Count the objects in the image",
+    "count": 4,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0010.jpg",
+    "text": "Count the objects in the image",
+    "count": 1,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0011.jpg",
+    "text": "Count the objects in the image",
+    "count": 1,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0012.jpg",
+    "text": "Count the objects in the image",
+    "count": 3,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0013.jpg",
+    "text": "Count the objects in the image",
+    "count": 5,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0014.jpg",
+    "text": "Count the objects in the image",
+    "count": 6,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0015.jpg",
+    "text": "Count the objects in the image",
+    "count": 4,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0016.jpg",
+    "text": "Count the objects in the image",
+    "count": 3,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0017.jpg",
+    "text": "Count the objects in the image",
+    "count": 9,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0018.jpg",
+    "text": "Count the objects in the image",
+    "count": 8,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0019.jpg",
+    "text": "Count the objects in the image",
+    "count": 1,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0020.jpg",
+    "text": "Count the objects in the image",
+    "count": 4,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0021.jpg",
+    "text": "Count the objects in the image",
+    "count": 3,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0022.jpg",
+    "text": "Count the objects in the image",
+    "count": 8,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0023.jpg",
+    "text": "Count the objects in the image",
+    "count": 6,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0024.jpg",
+    "text": "Count the objects in the image",
+    "count": 7,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0025.jpg",
+    "text": "Count the objects in the image",
+    "count": 8,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0026.jpg",
+    "text": "Count the objects in the image",
+    "count": 9,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0027.jpg",
+    "text": "Count the objects in the image",
+    "count": 7,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0028.jpg",
+    "text": "Count the objects in the image",
+    "count": 6,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0029.jpg",
+    "text": "Count the objects in the image",
+    "count": 7,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0030.jpg",
+    "text": "Count the objects in the image",
+    "count": 9,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0031.jpg",
+    "text": "Count the objects in the image",
+    "count": 4,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0032.jpg",
+    "text": "Count the objects in the image",
+    "count": 9,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0033.jpg",
+    "text": "Count the objects in the image",
+    "count": 8,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0034.jpg",
+    "text": "Count the objects in the image",
+    "count": 1,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0035.jpg",
+    "text": "Count the objects in the image",
+    "count": 6,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0036.jpg",
+    "text": "Count the objects in the image",
+    "count": 5,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0037.jpg",
+    "text": "Count the objects in the image",
+    "count": 5,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0038.jpg",
+    "text": "Count the objects in the image",
+    "count": 6,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0039.jpg",
+    "text": "Count the objects in the image",
+    "count": 3,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0040.jpg",
+    "text": "Count the objects in the image",
+    "count": 5,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0041.jpg",
+    "text": "Count the objects in the image",
+    "count": 6,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0042.jpg",
+    "text": "Count the objects in the image",
+    "count": 9,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0043.jpg",
+    "text": "Count the objects in the image",
+    "count": 2,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0044.jpg",
+    "text": "Count the objects in the image",
+    "count": 3,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0045.jpg",
+    "text": "Count the objects in the image",
+    "count": 5,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0046.jpg",
+    "text": "Count the objects in the image",
+    "count": 5,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0047.jpg",
+    "text": "Count the objects in the image",
+    "count": 5,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0048.jpg",
+    "text": "Count the objects in the image",
+    "count": 9,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0049.jpg",
+    "text": "Count the objects in the image",
+    "count": 9,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0050.jpg",
+    "text": "Count the objects in the image",
+    "count": 4,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0051.jpg",
+    "text": "Count the objects in the image",
+    "count": 4,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0052.jpg",
+    "text": "Count the objects in the image",
+    "count": 4,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0053.jpg",
+    "text": "Count the objects in the image",
+    "count": 5,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0054.jpg",
+    "text": "Count the objects in the image",
+    "count": 3,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0055.jpg",
+    "text": "Count the objects in the image",
+    "count": 6,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0056.jpg",
+    "text": "Count the objects in the image",
+    "count": 4,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0057.jpg",
+    "text": "Count the objects in the image",
+    "count": 4,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0058.jpg",
+    "text": "Count the objects in the image",
+    "count": 6,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0059.jpg",
+    "text": "Count the objects in the image",
+    "count": 6,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0060.jpg",
+    "text": "Count the objects in the image",
+    "count": 6,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0061.jpg",
+    "text": "Count the objects in the image",
+    "count": 4,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0062.jpg",
+    "text": "Count the objects in the image",
+    "count": 4,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0063.jpg",
+    "text": "Count the objects in the image",
+    "count": 2,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0064.jpg",
+    "text": "Count the objects in the image",
+    "count": 9,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0065.jpg",
+    "text": "Count the objects in the image",
+    "count": 5,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0066.jpg",
+    "text": "Count the objects in the image",
+    "count": 2,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0067.jpg",
+    "text": "Count the objects in the image",
+    "count": 5,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0068.jpg",
+    "text": "Count the objects in the image",
+    "count": 2,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0069.jpg",
+    "text": "Count the objects in the image",
+    "count": 2,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0070.jpg",
+    "text": "Count the objects in the image",
+    "count": 7,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0071.jpg",
+    "text": "Count the objects in the image",
+    "count": 3,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0072.jpg",
+    "text": "Count the objects in the image",
+    "count": 4,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0073.jpg",
+    "text": "Count the objects in the image",
+    "count": 1,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0074.jpg",
+    "text": "Count the objects in the image",
+    "count": 1,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0075.jpg",
+    "text": "Count the objects in the image",
+    "count": 3,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0076.jpg",
+    "text": "Count the objects in the image",
+    "count": 4,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0077.jpg",
+    "text": "Count the objects in the image",
+    "count": 8,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0078.jpg",
+    "text": "Count the objects in the image",
+    "count": 8,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0079.jpg",
+    "text": "Count the objects in the image",
+    "count": 5,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0080.jpg",
+    "text": "Count the objects in the image",
+    "count": 4,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0081.jpg",
+    "text": "Count the objects in the image",
+    "count": 5,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0082.jpg",
+    "text": "Count the objects in the image",
+    "count": 2,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0083.jpg",
+    "text": "Count the objects in the image",
+    "count": 9,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0084.jpg",
+    "text": "Count the objects in the image",
+    "count": 9,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0085.jpg",
+    "text": "Count the objects in the image",
+    "count": 5,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0086.jpg",
+    "text": "Count the objects in the image",
+    "count": 9,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0087.jpg",
+    "text": "Count the objects in the image",
+    "count": 4,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0088.jpg",
+    "text": "Count the objects in the image",
+    "count": 8,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0089.jpg",
+    "text": "Count the objects in the image",
+    "count": 7,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0090.jpg",
+    "text": "Count the objects in the image",
+    "count": 5,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0091.jpg",
+    "text": "Count the objects in the image",
+    "count": 7,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0092.jpg",
+    "text": "Count the objects in the image",
+    "count": 7,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0093.jpg",
+    "text": "Count the objects in the image",
+    "count": 8,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0094.jpg",
+    "text": "Count the objects in the image",
+    "count": 9,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0095.jpg",
+    "text": "Count the objects in the image",
+    "count": 8,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0096.jpg",
+    "text": "Count the objects in the image",
+    "count": 7,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0097.jpg",
+    "text": "Count the objects in the image",
+    "count": 2,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0098.jpg",
+    "text": "Count the objects in the image",
+    "count": 1,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  },
+  {
+    "image": "train_0099.jpg",
+    "text": "Count the objects in the image",
+    "count": 8,
+    "boxes": [
+      [
+        50,
+        50,
+        100,
+        100
+      ],
+      [
+        150,
+        150,
+        200,
+        200
+      ]
+    ]
+  }
+]

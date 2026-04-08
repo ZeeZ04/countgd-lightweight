@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Full (Untrained)",
+    "trained": "Yes",
+    "metrics": {
+      "mae": 4.22761173248291,
+      "inference_time_ms": 459.17277336120605,
+      "total_params": 157235235,
+      "model_size_mb": 599.8527870178223
+    }
+  },
+  {
+    "name": "Small (Untrained)",
+    "trained": "Error",
+    "metrics": null
+  },
+  {
+    "name": "Tiny (Untrained)",
+    "trained": "Yes",
+    "metrics": {
+      "mae": 4.155880165100098,
+      "inference_time_ms": 131.11944198608398,
+      "total_params": 153284403,
+      "model_size_mb": 584.767032623291
+    }
+  },
+  {
+    "name": "Micro (Untrained)",
+    "trained": "Error",
+    "metrics": null
+  },
+  {
+    "name": "Tiny (Trained)",
+    "trained": "Yes",
+    "metrics": {
+      "mae": 1.972808265686035,
+      "inference_time_ms": 133.2188606262207,
+      "total_params": 153284403,
+      "model_size_mb": 584.767032623291
+    }
+  },
+  {
+    "name": "Lightweight",
+    "trained": "Error",
+    "metrics": null
+  },
+  {
+    "name": "Full (Trained)",
+    "trained": "Error",
+    "metrics": null
+  }
+]
