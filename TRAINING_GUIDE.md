@@ -1,3 +1,6 @@
+> These size variants are early experiments. The final comparison (baseline, MLE-STAR optimised, ZMobileViT)
+> is in the main [README](README.md) and [`rigorous_results/`](rigorous_results/).
+
 # CountGD Model Training Guide
 
 ## Quick Start
@@ -38,9 +41,9 @@ python test_explanations.py
 
 | Size  | Memory | Parameters | Use Case |
 |-------|--------|------------|----------|
-| FULL  | 600 MB | 157M       | Best accuracy |
+| FULL  | 600 MB | 157M       | Baseline |
 | SMALL | 586 MB | 153M       | Balanced |
-| TINY  | 585 MB | 153M       | Minimal loss |
+| TINY  | 585 MB | 153M       | Fast training |
 | MICRO | 0.3 MB | 72K        | Edge devices |
 
 ## Training Options
@@ -94,7 +97,7 @@ count, heatmap, explanations = model.inference_with_explanation(
 
 ## Recommendations
 
-- **Development**: Use `tiny` model (fast training, good performance)
-- **Production**: Use `small` model (balanced size/accuracy)
+- **Development**: Use `tiny` model (fast training)
+- **Production**: Use `small` model
 - **Edge Deployment**: Use `micro` model (99.9% smaller)
-- **Research**: Use `full` model (maximum accuracy)
+- **Research**: Use `full` model as the baseline for comparisons

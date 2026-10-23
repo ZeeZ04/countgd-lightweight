@@ -35,8 +35,7 @@
    export_to_onnx(model, "countgd_mobile.onnx")
    ```
 
-## Performance Improvements Expected:
-- Reduced model size for mobile deployment
-- Faster inference through optimized architecture
-- Better accuracy through improved fusion layers
-- Mobile-ready with quantization support
+## Measured results
+The optimised model is 59% smaller (157.2M to 64.5M parameters) and 3.35x faster on CPU, with no
+statistically significant change in counting error across 5 seeds. See the main [README](README.md) and
+[`rigorous_results/rigorous_report.md`](rigorous_results/rigorous_report.md).
